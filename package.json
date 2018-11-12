@@ -1,0 +1,22 @@
+{
+  "name": "testcoin",
+  "version": "1.0.0",
+  "description": "This is testCoin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EldhoseShaji/testcoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EldhoseShaji/testcoin/issues"
+  },
+  "homepage": "https://github.com/EldhoseShaji/testcoin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
